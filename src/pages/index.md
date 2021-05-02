@@ -14,17 +14,17 @@ description: A few sections detailing major projects or work history that
 intro:
   blurbs:
     - image: /img/img_7500.jpg
-      text: |
-        Here is a few sentences about how I can build fences for you.
-    - image: /img/img_4476.jpg
-      text: |
-        And here's me cutting down a big ass tree.
-    - image: /img/img_8482.jpg
-      text: |
-        I can also do plumbing for you if you need me too etc. etc. 
+      text: Here's a couple sentences about fence-building.
     - image: /img/img_1916.jpg
       text: |
-        On top of all the other things I do, I also do landscaping.
+        I also do landscaping work.
+    - image: /img/img_4476.jpg
+      text: >
+        Here's me cutting down a big ass tree so you know I can cut down your
+        tree.
+    - image: /img/img_7863.jpg
+      text: |
+        I can also do all the plumbing stuff you need done.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
