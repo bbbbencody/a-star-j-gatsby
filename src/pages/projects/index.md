@@ -3,25 +3,24 @@ heading: Your best projects you want to highlight
 path: /projects
 templateKey: project-page
 title: Project portfolio
-image: /img/img_3750.jpg
+image: /img/img_0073-effects.jpg
 description: I'm thinking maybe put a few projects here that are your best work
   you want to put front and center with a short description. We can also skip
   this section since it's similar to what's on the landing page, or remove the
   landing page section instead.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/img_5262.jpg
       text: |
-        Short project description
-    - image: /img/coffee-gear.png
+        Here's a gate that I built.
+    - image: /img/img_5281.jpg
       text: |
-        Short project description
-    - image: /img/tutorials.png
+        I also built this.
+    - image: /img/img_3750.jpg
+      text: This too
+    - image: /img/img_8621.jpg
       text: |
-        Short project description
-    - image: /img/meeting-space.png
-      text: |
-        Short project description
+        And I built this fence.
   heading: These are a few examples of the work I do so that you will want to hire me.
   description: "Ex. Ex. Ex. "
 main:
