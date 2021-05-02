@@ -1,31 +1,30 @@
 ---
 templateKey: index-page
 title: Aaron James
-image: /img/home-jumbotron.jpg
+image: /img/img_5443.jpg
 heading: A cornucopia of experience
 subheading: General Contractor at law
 mainpitch:
   title: The guy for the job. Any job.
   description: >
-    2-5 sentences highlighting the services you specialize in most, as well as any other services you 
-    provide.
-description: >-
-  A few sections detailing major projects or work history that demonstrate expertise in the above listed services.
+    2-5 sentences highlighting the services you specialize in most, as well as
+    any other services you  provide.
+description: A few sections detailing major projects or work history that
+  demonstrate expertise in the above listed services.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        Let me know if you even like the idea of this whole section. I can remove it if you want.
-    - image: /img/coffee-gear.png
-      text: >
-        But I saw similar things in a few other business site templates and it seems like a decent idea.
-    - image: /img/tutorials.png
-      text: >
-        It should also help with search engine optimization as well to have more text content on
-        the landing page.
-    - image: /img/meeting-space.png
-      text: >
-        These should be highlight pictures of finished projects, by the way. Just placeholders for now. 
+    - image: /img/img_7500.jpg
+      text: |
+        Here is a few sentences about how I can build fences for you.
+    - image: /img/img_4476.jpg
+      text: |
+        And here's me cutting down a big ass tree.
+    - image: /img/img_8482.jpg
+      text: |
+        I can also do plumbing for you if you need me too etc. etc. 
+    - image: /img/img_1916.jpg
+      text: |
+        On top of all the other things I do, I also do landscaping.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
