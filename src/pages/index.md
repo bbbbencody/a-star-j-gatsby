@@ -3,12 +3,13 @@ templateKey: index-page
 title: Aaron James
 image: /img/img_5443.jpg
 heading: A cornucopia of experience
-subheading: General Contractor at law
+subheading: "General Contractor and handyman "
 mainpitch:
   title: The guy for the job. Any job.
   description: >
-    2-5 sentences highlighting the services you specialize in most, as well as
-    any other services you  provide.
+    Aaron James is a full-service handyman and contractor. With experience in
+    everything from plumbing to deck building, Aaron has the knowledge to get
+    the job done for you.
 description: A few sections detailing major projects or work history that
   demonstrate expertise in the above listed services.
 intro:
