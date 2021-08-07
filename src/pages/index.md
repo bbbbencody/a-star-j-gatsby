@@ -10,19 +10,15 @@ mainpitch:
     Aaron James is a full-service handyman and contractor. With experience in
     everything from plumbing to deck building, Aaron has the knowledge to get
     the job done for you.
-description: A few sections detailing major projects or work history that
-  demonstrate expertise in the above listed services.
+description: " Services provided such as landscaping, building of fences, decks,
+  wooden planters,cabinet installs and more! "
 intro:
   blurbs:
     - image: /img/img_7500.jpg
-      text: Here's a couple sentences about fence-building.
+      text: Durable fencing
     - image: /img/img_1916.jpg
       text: |
-        I also do landscaping work.
-    - image: /img/img_4476.jpg
-      text: >
-        Here's me cutting down a big ass tree so you know I can cut down your
-        tree.
+        Landscaping work
     - image: /img/img_7863.jpg
       text: |
         I can also do all the plumbing stuff you need done.
