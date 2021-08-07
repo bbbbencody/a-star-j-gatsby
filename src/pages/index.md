@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Aaron James
 image: /img/img_5443.jpg
-heading: A cornucopia of experience
-subheading: "General Contractor and handyman "
+heading: "A veritable Renaissance man. "
+subheading: "General Contractor and Handyman "
 mainpitch:
   title: The guy for the job. Any job.
   description: >
