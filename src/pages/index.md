@@ -8,8 +8,8 @@ mainpitch:
   title: The guy for the job. Any job.
   description: >
     Aaron James is a full-service handyman and contractor. With experience in
-    everything from plumbing to deck building, Aaron has the knowledge to get
-    the job done for you.
+    everything from plumbing to landscaping and deck building, Aaron has the
+    knowledge to get the job done for you.
 description: " Services provided such as landscaping, building of fences, decks,
   wooden planters,cabinet installs and more! "
 intro:
@@ -21,7 +21,7 @@ intro:
         Landscaping work
     - image: /img/img_7863.jpg
       text: |
-        I can also do all the plumbing stuff you need done.
+        Plumbing
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
