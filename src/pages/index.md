@@ -16,11 +16,10 @@ intro:
   blurbs:
     - image: /img/img_7500.jpg
       text: Durable fencing
-    - image: /img/img_7863.jpg
-      text: |
-        Plumbing
     - image: /img/img_5281.jpg
       text: Covered Decks and Patios
+    - image: /img/img_7863.jpg
+      text: "Pool pump repairs. "
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
