@@ -1,27 +1,26 @@
 ---
 templateKey: index-page
 title: Aaron James
-image: /img/img_5443.jpg
 heading: "A veritable Renaissance man. "
-subheading: "General Contractor and Handyman "
+subheading: "General Contractor and Full Service Handyman "
 mainpitch:
   title: The guy for the job. Any job.
   description: >
     Aaron James is a full-service handyman and contractor. With experience in
     everything from plumbing to landscaping and deck building, Aaron has the
     knowledge to get the job done for you.
-description: " Services provided such as plumbing, landscaping, building of
-  fences, decks, wooden planters,cabinet installs and more! "
+description: " Services provided such as plumbing, landscaping, construction and
+  repair of fences, decks, wooden planters, cabinet installation, renovations,
+  remodels, rental or home sale make-ready, and much more! "
 intro:
   blurbs:
     - image: /img/img_7500.jpg
       text: Durable fencing
-    - image: /img/img_1916.jpg
-      text: |
-        Landscaping work
     - image: /img/img_7863.jpg
       text: |
         Plumbing
+    - image: /img/img_5281.jpg
+      text: Covered Decks and Patios
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -44,4 +43,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/projects-grid1.jpg
+image: /img/img_5443.jpg
 ---
